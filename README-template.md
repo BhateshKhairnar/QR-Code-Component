@@ -40,7 +40,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 -https://css-tricks.com/snippets/css/a-guide-to-flexbox/
--checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 
 ### Continued development
