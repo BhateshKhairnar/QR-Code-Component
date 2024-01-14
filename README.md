@@ -17,6 +17,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
+### The challenge
+
+Users should be able to:
+
+- See all interactive elements on the page
+- Responsive layout
+
 ### Screenshot
 
 ![Screenshot 2024-01-13 184035](https://github.com/BhateshKhairnar/QR-Code-Component/assets/111328681/cc062100-4cf8-4226-94ed-05fb18092af9)
