@@ -53,9 +53,9 @@ checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ### Useful resources
 
-- [resource 1](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
-- [resource 2](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- This is an amazing article that helped me finally understand Flexbox. I'd recommend it to anyone still learning this concept.
+- [Resource 1](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+- [Resource 2](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- Above Resource is an amazing article that helped me finally understand Flexbox. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
