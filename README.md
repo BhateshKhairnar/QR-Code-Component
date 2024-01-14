@@ -46,9 +46,9 @@ checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ### Continued development
 
--flexbox
--grid
--Responsive Design
+- flexbox
+- grid
+- Responsive Design
 
 
 ### Useful resources
