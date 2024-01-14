@@ -4,36 +4,27 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
+  - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+  - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
+![Screenshot 2024-01-13 184035](https://github.com/BhateshKhairnar/QR-Code-Component/assets/111328681/cc062100-4cf8-4226-94ed-05fb18092af9)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-yAJmt-SIF5)
-- Live Site URL: [Add live site URL here](https://bhateshkhairnar.github.io/QR-Code-Component/01-index.html)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-yAJmt-SIF5](https://www.frontendmentor.io/solutions/qr-code-component-yAJmt-SIF5)
+- Live Site URL: [https://bhateshkhairnar.github.io/QR-Code-Component/01-index.html](https://bhateshkhairnar.github.io/QR-Code-Component/01-index.html)
 
 ## My process
 
