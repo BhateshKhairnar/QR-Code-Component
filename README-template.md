@@ -39,25 +39,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+-checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 
 ### Continued development
@@ -75,6 +58,6 @@ Use this section to outline areas you want to continue focusing on in future pro
 ## Author
 
 - Website - [Bhatesh Khairnar](https://bhateshkhairnar.github.io/QR-Code-Component/01-index.html)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/BhateshKhairnar)
+- Frontend Mentor - [@BhateshKhairnar](https://www.frontendmentor.io/profile/BhateshKhairnar)
 
 
