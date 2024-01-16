@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
   - [Author](#author)
 
@@ -41,21 +40,11 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
 
 
 ### What I learned
 
 -https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-
-### Continued development
-
-- flexbox
-- grid
-- Responsive Design
 
 
 ### Useful resources
@@ -67,7 +56,7 @@ checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ## Author
 
-- Website - [Bhatesh Khairnar](https://bhateshkhairnar.github.io/QR-Code-Component/01-index.html)
+- Website - [Bhatesh Khairnar]()
 - Frontend Mentor - [@BhateshKhairnar](https://www.frontendmentor.io/profile/BhateshKhairnar)
 
 
